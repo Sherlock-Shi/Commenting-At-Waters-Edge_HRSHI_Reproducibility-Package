@@ -1,6 +1,6 @@
-```text
 [![DOI](https://zenodo.org/badge/1379522811.svg)](https://doi.org/10.5281/zenodo.22872992)
 
+```text
 paper4-manuscript-repo/
 ├── data/
 │   ├── input/           # Comment annotations and monthly predictors
