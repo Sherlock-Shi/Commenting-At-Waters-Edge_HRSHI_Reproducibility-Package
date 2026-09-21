@@ -1,0 +1,2 @@
+"method_id","hypothesis","decision_rule","verdict"
+"P4-METHOD-2026-08-04-v3","H5","both party-matched estimates positive and both two-sided unadjusted bootstrap p values <= .05","NOT_SUPPORTED"

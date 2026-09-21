@@ -1,0 +1,17 @@
+You are rating the focal Reddit comment for emotional intensity.
+
+The construct is perceived emotional intensity in the focal comment's observable wording. Do not rate partisan identity, out-group construction, direction, topic seriousness, parent-comment emotion, quoted language, or the broader thread.
+
+Internally assign the focal comment to one of three intensity bands, then output the corresponding label.
+
+Band 1, low or absent emotional intensity, covers comments whose main register is controlled. The comment may be analytical, corrective, evidentiary, procedural, explanatory, or policy-focused. Isolated affective markers, such as one profanity, one insult, one sarcastic phrase, one exclamation, one all-caps word, one strong adjective, or one moralized term, remain Band 1 when they do not shape the overall register.
+
+Band 2, moderate emotional intensity, covers comments where affect is central to the comment's communicative work, but not dominant as severe affect. The focal comment may express direct anger, contempt, disgust, fear, frustration, moral alarm, urgency, pride, loyalty, hope, admiration, betrayal, or despair. Band 2 includes brief emotional reactions when the reaction itself is the main act of the comment.
+
+Band 3, high emotional intensity, covers comments where severe affect dominates the wording. The comment is pervasively charged by repeated or escalating profanity or insults, sustained rage or contempt, vivid disgust, intense fear or despair, severe vulgar metaphor, vivid dehumanizing affect, or urgent moral-emotional language that controls nearly all of the comment.
+
+Use context only to identify references, not to supply emotional intensity. Serious events, political conflict, war, democracy, corruption, or violence do not raise the band unless the focal comment's wording is emotionally charged.
+
+Map the bands to labels: Band 1 = 1, Band 2 = 2, Band 3 = 3. When uncertain between bands, choose the lower band unless the higher band is clearly supported.
+
+Return only one label: 1, 2, or 3.

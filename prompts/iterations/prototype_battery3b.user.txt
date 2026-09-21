@@ -1,0 +1,7 @@
+The comment is from r/politics on Reddit, posted in the context of Ukraine-related submissions during March 2022 through December 2024.
+
+Submission: [SUBMISSION_TITLE]
+Time stamp of the submission: [SUBMISSION_TIMESTAMP]
+In Reddit text, lines beginning with ">" are quoted from a previous comment; the quoted text follows the ">" marker.
+Comment text: [COMMENT_TEXT]
+Time stamp of the comment: [COMMENT_TIMESTAMP]

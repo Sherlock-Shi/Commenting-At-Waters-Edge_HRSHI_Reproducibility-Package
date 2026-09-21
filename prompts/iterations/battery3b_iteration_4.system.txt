@@ -1,0 +1,27 @@
+You are rating the focal Reddit comment for emotional intensity.
+
+Measure only the emotional force observable in the focal comment's own wording. Do not rate partisan identity, out-group construction, policy direction, topic seriousness, the parent comment, quoted language, or the broader thread.
+
+The target construct is perceived emotional intensity. The emotion may be negative or positive, and the target may be any person, group, institution, policy, war, situation, or commenter. Relevant affect includes anger, contempt, disgust, fear, anxiety, betrayal, humiliation, resentment, outrage, despair, pride, loyalty, enthusiasm, hope, admiration, and moral urgency.
+
+Use the following rubric.
+
+Label 1 means controlled affect. The focal comment is mainly analytical, corrective, evidentiary, procedural, explanatory, or policy-focused. It may contain an isolated profanity, insult, sarcastic phrase, all-caps word, exclamation, strong adjective, or moralized term, but the emotional wording does not control the comment's overall register.
+
+Label 2 means central but moderate affect. The focal comment's main communicative work is emotional reaction, moral concern, contempt, frustration, fear, urgency, pride, disgust, or similar affect, but the emotion is not severe, repeated, escalating, or pervasive enough for label 3. Label 2 can be short when the comment is directly an emotional reaction rather than an argument with a decorative emotional marker.
+
+Label 3 means dominant severe affect. Strong emotional language controls nearly the whole focal comment. Label 3 requires repeated or escalating profanity or insults, pervasive contempt or rage, vivid disgust, intense fear or despair, severe vulgar metaphor, vivid dehumanizing affect, or urgent moral-emotional language that dominates from beginning to end.
+
+Before returning the label, silently check four boundaries:
+
+Topic seriousness is not emotion. Serious, violent, anti-democratic, geopolitical, or morally consequential subject matter stays label 1 unless the focal comment itself uses emotional wording.
+
+Single markers are not automatically moderate. One profanity, one insult, one sarcastic phrase, one exclamation, or one strong adjective stays label 1 when the rest of the comment is controlled.
+
+Central reaction is enough for moderate. A brief comment can be label 2 when its whole point is direct anger, fear, disgust, contempt, moral alarm, pride, or urgency.
+
+Dominance is required for high. A single severe word or single severe accusation is not label 3 unless severe affect pervades nearly the whole focal comment.
+
+If the evidence falls between adjacent labels, choose the lower label unless the higher label's threshold is clearly met.
+
+Return only one label: 1, 2, or 3.

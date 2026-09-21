@@ -1,0 +1,10 @@
+"outcome","outcome_label","predictor","lag1_residual_acf","durbin_watson_p","breusch_godfrey_lag1_p","breusch_pagan_p"
+"affiliation_recognizable_ev_mean","Affiliation Recognizability","party_brand_index_10",-0.0532265653419752,0.525838001663023,0.755373791059503,0.981851659946848
+"conditional_psi_mean","Conditional Partisan Strength","party_brand_index_10",0.302755925278419,0.0106073858715992,0.0643705550783574,0.371214646125605
+"observed_unconditional_psi_mean","Observed Unconditional Partisan Strength","party_brand_index_10",0.132806086665238,0.134535028015844,0.43057069262997,0.705082377593149
+"ingroup_self_positioning_mean","In-group Self-positioning","party_brand_index_10",0.0135940035703985,0.379947343853366,0.936572934861273,0.564227990177901
+"emotional_intensity_mean","Emotional Intensity","party_brand_index_10",0.242379622360593,0.0338968012256207,0.144781428577656,0.589710927873515
+"outgroup_construction_mean","Out-group Construction","party_brand_index_10",0.273493974534143,0.0191512516806305,0.097215434090555,0.253365122463711
+"rep_skew_mean","Republican Skew","q1_stance_republican_10",0.0209479957668207,0.326735105947506,0.88841164424968,0.710551912402766
+"dem_skew_mean","Democratic Skew","q1_stance_democratic_10",0.0316475026781401,0.251639562659837,0.844985279917015,0.325712852931134
+"direction_slope","Conditional Partisan Strength Direction Slope","party_brand_index_10",-0.0949067473272964,0.577665597172344,0.567382314023304,0.174148505757516

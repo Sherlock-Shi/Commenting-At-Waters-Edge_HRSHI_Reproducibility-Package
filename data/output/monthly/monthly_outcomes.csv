@@ -1,0 +1,307 @@
+outcome,outcome_label,predictor,predictor_label,sample_month,predictor_value,case_value,n_cases
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2022-03,4.303174699727004,0.5433691797766237,48625
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2022-04,5.204340502830389,0.5635894800788366,9182
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2022-05,5.572073476834651,0.5804235285436906,10468
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2022-06,4.4275881058987245,0.401951083227429,1045
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2022-07,5.619299969599727,0.5231584440122289,2980
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2022-08,5.338697492221824,0.3659653453516973,860
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2022-09,5.389953584964042,0.5673346847408917,3153
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2022-10,6.456066475629389,0.5280906594810828,10012
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2022-11,5.2616024215582,0.5636225541536711,2008
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2022-12,6.410896206747798,0.6183531281222137,6016
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2023-01,5.406747217334802,0.48607493641379645,3384
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2023-02,5.410088919061863,0.6260390709195687,9948
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2023-03,6.163854851328894,0.6720721211875608,11135
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2023-04,5.408680911376589,0.6473582486112853,1477
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2023-05,5.042631333593673,0.5199622131191762,1676
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2023-06,5.189977194931201,0.5583005941686126,2965
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2023-07,4.795353131489422,0.5076045005741207,2701
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2023-08,5.293995340976904,0.6472895119889673,2113
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2023-09,6.2455384413298445,0.5084575060263615,6516
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2023-10,6.148653650269567,0.5053016265241478,7128
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2023-11,5.75910398908809,0.6091559002904998,2629
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2023-12,6.11984321948073,0.6196265270916073,5968
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2024-01,5.86446518557328,0.6098826266539944,1665
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2024-02,6.130124558145313,0.6628236131812548,11232
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2024-03,6.3341715009507515,0.6581493395468517,3337
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2024-04,5.588053555436853,0.61631149239109,10876
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2024-05,5.403774135246251,0.45948105858551636,617
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2024-06,6.823354445533982,0.6903667856512752,3064
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2024-07,6.5349630608167315,0.6584010667305217,9220
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2024-08,6.474803131349269,0.4651824757964101,716
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2024-09,6.153512440852972,0.7054325756021366,4815
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2024-10,6.02671736550006,0.6511459016382958,1257
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2024-11,6.306219466032603,0.5962685386583343,15085
+affiliation_recognizable_ev_mean,Affiliation Recognizability,party_brand_index_10,Party Brand Index (10-point units),2024-12,6.16353611998906,0.6026150484911228,3608
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2022-03,4.303174699727004,0.16204362998000657,26481
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2022-04,5.204340502830389,0.16907303368399187,5161
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2022-05,5.572073476834651,0.15956124388543316,6082
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2022-06,4.4275881058987245,0.14173420524098054,407
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2022-07,5.619299969599727,0.129727771498956,1539
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2022-08,5.338697492221824,0.12408899356973269,306
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2022-09,5.389953584964042,0.18963111953432402,1790
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2022-10,6.456066475629389,0.17185347315302546,5249
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2022-11,5.2616024215582,0.1632030435669164,1117
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2022-12,6.410896206747798,0.1927739498127027,3741
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-01,5.406747217334802,0.16545340717414359,1613
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-02,5.410088919061863,0.1694045339709978,6233
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-03,6.163854851328894,0.17666205454989867,7551
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-04,5.408680911376589,0.16851088005298448,954
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-05,5.042631333593673,0.14796910454169027,879
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-06,5.189977194931201,0.15419235509043616,1639
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-07,4.795353131489422,0.17035983228916782,1360
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-08,5.293995340976904,0.17227675353584676,1377
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-09,6.2455384413298445,0.1620448154303743,3278
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-10,6.148653650269567,0.15254134150976859,3566
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-11,5.75910398908809,0.16649092409552294,1604
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-12,6.11984321948073,0.1863612239705349,3697
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-01,5.86446518557328,0.17092439634254025,1011
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-02,6.130124558145313,0.18523638651437244,7496
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-03,6.3341715009507515,0.17974367418645282,2218
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-04,5.588053555436853,0.16475524073937103,6724
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-05,5.403774135246251,0.15529833100318446,280
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-06,6.823354445533982,0.1760611704901954,2128
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-07,6.5349630608167315,0.1246910947880714,6196
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-08,6.474803131349269,0.13750356245708334,335
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-09,6.153512440852972,0.17295725783788304,3410
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-10,6.02671736550006,0.1725645233684763,824
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-11,6.306219466032603,0.14362158560703622,9036
+conditional_psi_mean,Conditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-12,6.16353611998906,0.13384426832878132,2197
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2022-03,4.303174699727004,0.08825382266259212,48622
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2022-04,5.204340502830389,0.09503222901797889,9182
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2022-05,5.572073476834651,0.09270648503163972,10468
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2022-06,4.4275881058987245,0.05520174309385558,1045
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2022-07,5.619299969599727,0.06699699340164203,2980
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2022-08,5.338697492221824,0.044152595386439765,860
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2022-09,5.389953584964042,0.10765610655453217,3153
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2022-10,6.456066475629389,0.09009777073314329,10012
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2022-11,5.2616024215582,0.0907857568049032,2008
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2022-12,6.410896206747798,0.1198948206565787,6015
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-01,5.406747217334802,0.07886416837230899,3384
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-02,5.410088919061863,0.1061417832972687,9948
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-03,6.163854851328894,0.11981095508409241,11134
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-04,5.408680911376589,0.10884182773902992,1477
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-05,5.042631333593673,0.07760432153469317,1676
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-06,5.189977194931201,0.08523482967731025,2965
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-07,4.795353131489422,0.08577910844623036,2701
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-08,5.293995340976904,0.11226932778933317,2113
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-09,6.2455384413298445,0.08151978283928281,6516
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-10,6.148653650269567,0.07631347135575685,7128
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-11,5.75910398908809,0.10157909556836013,2629
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2023-12,6.11984321948073,0.11544528234233706,5968
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-01,5.86446518557328,0.10378652534673165,1665
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-02,6.130124558145313,0.12362285909114457,11232
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-03,6.3341715009507515,0.11947002377751044,3337
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-04,5.588053555436853,0.10186797597531318,10875
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-05,5.403774135246251,0.07047574178426523,617
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-06,6.823354445533982,0.1223173917085001,3063
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-07,6.5349630608167315,0.08379457953436989,9220
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-08,6.474803131349269,0.06433476735073035,716
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-09,6.153512440852972,0.12248894064946649,4815
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-10,6.02671736550006,0.11312105589150714,1257
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-11,6.306219466032603,0.08603584245194772,15084
+observed_unconditional_psi_mean,Observed Unconditional Partisan Strength,party_brand_index_10,Party Brand Index (10-point units),2024-12,6.16353611998906,0.0815010691569658,3608
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2022-03,4.303174699727004,0.016501827591041036,26481
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2022-04,5.204340502830389,0.021131159830094587,5161
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2022-05,5.572073476834651,0.01942914186474022,6082
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2022-06,4.4275881058987245,0.028197841015705258,407
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2022-07,5.619299969599727,0.018791580774300258,1539
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2022-08,5.338697492221824,0.016428135348161444,306
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2022-09,5.389953584964042,0.013690102116264468,1790
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2022-10,6.456066475629389,0.03125752600555644,5249
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2022-11,5.2616024215582,0.015235777399681075,1117
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2022-12,6.410896206747798,0.012546583768454151,3741
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2023-01,5.406747217334802,0.014206972495192788,1613
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2023-02,5.410088919061863,0.013499404850459867,6233
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2023-03,6.163854851328894,0.01184750923673206,7551
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2023-04,5.408680911376589,0.00994190490672604,954
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2023-05,5.042631333593673,0.011953409322772597,879
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2023-06,5.189977194931201,0.011247654316320221,1639
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2023-07,4.795353131489422,0.011865203212039224,1360
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2023-08,5.293995340976904,0.016071425216142896,1377
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2023-09,6.2455384413298445,0.015905594527380506,3278
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2023-10,6.148653650269567,0.015927981208915854,3566
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2023-11,5.75910398908809,0.013100511795448846,1604
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2023-12,6.11984321948073,0.0248587673413299,3697
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2024-01,5.86446518557328,0.015306127791112225,1011
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2024-02,6.130124558145313,0.01553839060945139,7496
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2024-03,6.3341715009507515,0.016536023804605886,2218
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2024-04,5.588053555436853,0.01657751693271505,6724
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2024-05,5.403774135246251,0.011100536465821745,280
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2024-06,6.823354445533982,0.014188560955767203,2128
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2024-07,6.5349630608167315,0.032894343414807764,6196
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2024-08,6.474803131349269,0.010293828405720556,335
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2024-09,6.153512440852972,0.012222128649660168,3410
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2024-10,6.02671736550006,0.00916227372852593,824
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2024-11,6.306219466032603,0.021436826226762542,9036
+ingroup_self_positioning_mean,In-group Self-positioning,party_brand_index_10,Party Brand Index (10-point units),2024-12,6.16353611998906,0.013674785738572575,2197
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2022-03,4.303174699727004,0.18689130771713588,26481
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2022-04,5.204340502830389,0.18563181227827896,5161
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2022-05,5.572073476834651,0.1997566011425024,6082
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2022-06,4.4275881058987245,0.16846541230914824,407
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2022-07,5.619299969599727,0.1407284137865741,1539
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2022-08,5.338697492221824,0.1479014232856754,306
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2022-09,5.389953584964042,0.21227938908911867,1790
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2022-10,6.456066475629389,0.20136521408417635,5249
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2022-11,5.2616024215582,0.1853664789641035,1117
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2022-12,6.410896206747798,0.2206664294731866,3741
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2023-01,5.406747217334802,0.1849317945517001,1613
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2023-02,5.410088919061863,0.1954961957767667,6233
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2023-03,6.163854851328894,0.2097863935505757,7551
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2023-04,5.408680911376589,0.18194345517638078,954
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2023-05,5.042631333593673,0.17572785903329893,879
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2023-06,5.189977194931201,0.19132745594577616,1639
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2023-07,4.795353131489422,0.20039289164160035,1360
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2023-08,5.293995340976904,0.19955361702967192,1377
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2023-09,6.2455384413298445,0.18771541683375637,3278
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2023-10,6.148653650269567,0.17554520074156055,3566
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2023-11,5.75910398908809,0.18099713310929677,1604
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2023-12,6.11984321948073,0.2078777526829481,3697
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2024-01,5.86446518557328,0.1878491795793284,1011
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2024-02,6.130124558145313,0.2121828813142921,7496
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2024-03,6.3341715009507515,0.20244418652599183,2218
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2024-04,5.588053555436853,0.18347324790275135,6724
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2024-05,5.403774135246251,0.19981538100711732,280
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2024-06,6.823354445533982,0.1925827759288441,2128
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2024-07,6.5349630608167315,0.15914636951848576,6196
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2024-08,6.474803131349269,0.17405567249791606,335
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2024-09,6.153512440852972,0.20824404834727628,3410
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2024-10,6.02671736550006,0.22334895463186757,824
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2024-11,6.306219466032603,0.18555199743914141,9036
+emotional_intensity_mean,Emotional Intensity,party_brand_index_10,Party Brand Index (10-point units),2024-12,6.16353611998906,0.16736322673446782,2197
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2022-03,4.303174699727004,0.2827377546318428,26481
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2022-04,5.204340502830389,0.30045612894360213,5161
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2022-05,5.572073476834651,0.2594979886490569,6082
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2022-06,4.4275881058987245,0.22853936239808811,407
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2022-07,5.619299969599727,0.2296633199359936,1539
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2022-08,5.338697492221824,0.2079374220753612,306
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2022-09,5.389953584964042,0.34292386739758884,1790
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2022-10,6.456066475629389,0.2829376793693435,5249
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2022-11,5.2616024215582,0.28900687433696465,1117
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2022-12,6.410896206747798,0.3451088361964675,3741
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2023-01,5.406747217334802,0.2972214544755379,1613
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2023-02,5.410088919061863,0.29921800128576675,6233
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2023-03,6.163854851328894,0.30835226086238826,7551
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2023-04,5.408680911376589,0.31364728007584664,954
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2023-05,5.042631333593673,0.2562260452689993,879
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2023-06,5.189977194931201,0.2600019550092121,1639
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2023-07,4.795353131489422,0.29882140201386376,1360
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2023-08,5.293995340976904,0.3012052183617255,1377
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2023-09,6.2455384413298445,0.282513434929986,3278
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2023-10,6.148653650269567,0.2661508425788293,3566
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2023-11,5.75910398908809,0.3053751273818232,1604
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2023-12,6.11984321948073,0.32634715188732666,3697
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2024-01,5.86446518557328,0.3096178816571801,1011
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2024-02,6.130124558145313,0.3279878876193738,7496
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2024-03,6.3341715009507515,0.3202508122287607,2218
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2024-04,5.588053555436853,0.2942149573826467,6724
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2024-05,5.403774135246251,0.25497907553661425,280
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2024-06,6.823354445533982,0.32141217458597493,2128
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2024-07,6.5349630608167315,0.1820325714309207,6196
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2024-08,6.474803131349269,0.22816118646761346,335
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2024-09,6.153512440852972,0.2984055965167127,3410
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2024-10,6.02671736550006,0.28518234174503543,824
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2024-11,6.306219466032603,0.22387593315520468,9036
+outgroup_construction_mean,Out-group Construction,party_brand_index_10,Party Brand Index (10-point units),2024-12,6.16353611998906,0.22049479251330364,2197
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2022-03,3.6732187470932587,0.19131940443597725,26481
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2022-04,4.144734046321596,0.15411165216270575,5161
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2022-05,4.909652469761884,0.31870529962106275,6082
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2022-06,2.546611072244781,0.23358783880327944,407
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2022-07,5.214447579744226,0.3331071453529598,1539
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2022-08,3.309336128376389,0.21588855689803177,306
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2022-09,5.263454763842592,0.10771887894681546,1790
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2022-10,5.944555660589076,0.15005642378283066,5249
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2022-11,5.9128593392043,0.14967474693815455,1117
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2022-12,5.470506858683234,0.08496069155869114,3741
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2023-01,4.865791553032688,0.17120532678761263,1613
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2023-02,4.893973071404313,0.1333388076670203,6233
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2023-03,5.756177770596708,0.1162828410245262,7551
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2023-04,5.685897480726881,0.08670764893412665,954
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2023-05,4.925624974026392,0.18604209397985988,879
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2023-06,4.480219366144832,0.16117539564181543,1639
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2023-07,4.834937071163618,0.12159523404088976,1360
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2023-08,5.402223429926914,0.12853345032783745,1377
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2023-09,5.594335287094118,0.21770470946994522,3278
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2023-10,5.580844394220451,0.1985496611271294,3566
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2023-11,5.29377900564317,0.1214019623464958,1604
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2023-12,5.572038070735756,0.224833558294892,3697
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2024-01,5.569711309529663,0.16096816092278182,1011
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2024-02,5.7317631392784545,0.13676228916229535,7496
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2024-03,5.793497045409927,0.08614821398868543,2218
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2024-04,4.999213581306874,0.12047476286922854,6724
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2024-05,5.434102486373744,0.1832866612961077,280
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2024-06,6.105911292315914,0.12682825227901504,2128
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2024-07,5.755916323464024,0.3014223673881206,6196
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2024-08,6.058217886356042,0.1634756001304914,335
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2024-09,6.0142914734829045,0.0717635035162363,3410
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2024-10,6.0536938435172365,0.10345364850391314,824
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2024-11,5.938439124765692,0.2531875868889624,9036
+rep_skew_mean,Republican Skew,q1_stance_republican_10,Republican Q1 stance (10-point units),2024-12,5.838996049524176,0.23251615636669976,2197
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2022-03,1.6763207584784994,0.7556522567759936,26481
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2022-04,1.225992852353915,0.7996248689889772,5161
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2022-05,1.2394826459371324,0.633909088672841,6082
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2022-06,1.131527906422972,0.714749763951945,407
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2022-07,1.244716238410502,0.605290486280665,1539
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2022-08,0.9600189292124304,0.7518278169543038,306
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2022-09,1.2298209893856156,0.8546525627225654,1790
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2022-10,2.010078763966077,0.8034935424716542,5249
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2022-11,2.3441498634736146,0.8105469574719487,1117
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2022-12,1.3083433162823963,0.8831243321718509,3741
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2023-01,1.6861436908724805,0.7794649430226818,1613
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2023-02,1.35523583948138,0.820588330136895,6233
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2023-03,2.04359932385212,0.8430455926973418,7551
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2023-04,2.4361075336978733,0.883459268791407,954
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2023-05,2.1756948504492906,0.7525655983281102,879
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2023-06,1.9088951581066724,0.8001393928837255,1639
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2023-07,1.8966290565080421,0.842237295853251,1360
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2023-08,2.4241151085718227,0.8360075233915054,1377
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2023-09,1.4671421165327925,0.7286240946185741,3278
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2023-10,1.5028303597083568,0.7405450557959167,3566
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2023-11,1.699494860851647,0.8187225338544494,1604
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2023-12,1.5297099645913717,0.7299224607923657,3697
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2024-01,1.6294591316420088,0.7840799484517769,1011
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2024-02,1.5428430264617645,0.818049242328956,7496
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2024-03,1.6052096694223177,0.8662410965244307,2218
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2024-04,1.4804464498222676,0.82062428870198,6724
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2024-05,1.8531903958439657,0.7541164554664185,280
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2024-06,1.4577037248852196,0.838760469205537,2128
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2024-07,1.5505106521777887,0.5755189819801434,6196
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2024-08,2.008036454242116,0.7612563780751289,335
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2024-09,2.174011653738444,0.8900581927678365,3410
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2024-10,2.0450687795177145,0.8544951234262369,824
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2024-11,1.8297592016847322,0.6818292677428828,9036
+dem_skew_mean,Democratic Skew,q1_stance_democratic_10,Democratic Q1 stance (10-point units),2024-12,2.345304090562901,0.7019047673341572,2197
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2022-03,4.303174699727004,-0.04155196785172781,26481
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2022-04,5.204340502830389,-0.04726827891092138,5161
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2022-05,5.572073476834651,-0.044690135431098545,6082
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2022-06,4.4275881058987245,-0.030787064217122104,407
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2022-07,5.619299969599727,-0.03413548522600316,1539
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2022-08,5.338697492221824,-0.04121101126290877,306
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2022-09,5.389953584964042,-0.0625278189710459,1790
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2022-10,6.456066475629389,-0.044785098383205865,5249
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2022-11,5.2616024215582,-0.03388906600026532,1117
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2022-12,6.410896206747798,-0.05402947112622968,3741
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2023-01,5.406747217334802,-0.04446344321475728,1613
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2023-02,5.410088919061863,-0.037310160026530634,6233
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2023-03,6.163854851328894,-0.054824673236098555,7551
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2023-04,5.408680911376589,-0.046871570272973874,954
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2023-05,5.042631333593673,-0.05358155558446476,879
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2023-06,5.189977194931201,-0.039589733293405795,1639
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2023-07,4.795353131489422,-0.030069667503327686,1360
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2023-08,5.293995340976904,-0.0530538842612524,1377
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2023-09,6.2455384413298445,-0.053103688088569564,3278
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2023-10,6.148653650269567,-0.03769246703051337,3566
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2023-11,5.75910398908809,-0.02276047129014202,1604
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2023-12,6.11984321948073,-0.04488265898339937,3697
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2024-01,5.86446518557328,-0.04659127583454451,1011
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2024-02,6.130124558145313,-0.05799438890937052,7496
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2024-03,6.3341715009507515,-0.04217184354479681,2218
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2024-04,5.588053555436853,-0.04455402345610538,6724
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2024-05,5.403774135246251,-0.03456354796663355,280
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2024-06,6.823354445533982,-0.060732101301125024,2128
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2024-07,6.5349630608167315,-0.008195487973269723,6196
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2024-08,6.474803131349269,-0.04871520368766878,335
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2024-09,6.153512440852972,-0.053284471429261474,3410
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2024-10,6.02671736550006,-0.04703733129829628,824
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2024-11,6.306219466032603,-0.026657641400650984,9036
+direction_slope,Conditional Partisan Strength Direction Slope,party_brand_index_10,Party Brand Index (10-point units),2024-12,6.16353611998906,-0.026383122109854853,2197

@@ -1,0 +1,8 @@
+The following comment is from r/politics on Reddit, posted in the context of Ukraine-related submissions during March 2022 through December 2024. In Reddit text, lines beginning with ">" are quoted from a previous comment.
+
+Assess whether this comment is more recognizable as Republican-coalition discourse or Democratic-coalition discourse.
+
+Submission: [SUBMISSION_TITLE]
+Time stamp of the submission: [SUBMISSION_TIMESTAMP]
+Comment text: [COMMENT_TEXT]
+Time stamp of the comment: [COMMENT_TIMESTAMP]

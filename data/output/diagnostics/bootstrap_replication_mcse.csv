@@ -1,0 +1,17 @@
+"replications","replication_role","decision_threshold","threshold_role","monte_carlo_std_error","monte_carlo_margin_95"
+5000,"precision_reference",0.0125,"holm_first_of_four",0.00157122563624707,0.00307954565863028
+10000,"planned_initial",0.0125,"holm_first_of_four",0.00111102430216445,0.00217756761819107
+20000,"threshold_overlap_extension",0.0125,"holm_first_of_four",0.000785612818123533,0.00153977282931514
+50000,"exceptional_borderline_extension",0.0125,"holm_first_of_four",0.000496865172858795,0.000973837843975506
+5000,"precision_reference",0.0166666666666667,"holm_second_of_four",0.00181046341520004,0.00354844308911946
+10000,"planned_initial",0.0166666666666667,"holm_second_of_four",0.0012801909579781,0.00250912817097091
+20000,"threshold_overlap_extension",0.0166666666666667,"holm_second_of_four",0.000905231707600018,0.00177422154455973
+50000,"exceptional_borderline_extension",0.0166666666666667,"holm_second_of_four",0.000572518801243922,0.00112211623091013
+5000,"precision_reference",0.025,"holm_third_of_four",0.00220794021658196,0.00432748330451821
+10000,"planned_initial",0.025,"holm_third_of_four",0.0015612494995996,0.0030599927900964
+20000,"threshold_overlap_extension",0.025,"holm_third_of_four",0.00110397010829098,0.00216374165225911
+50000,"exceptional_borderline_extension",0.025,"holm_third_of_four",0.000698212002188447,0.00136847037786296
+5000,"precision_reference",0.05,"unadjusted_or_holm_fourth",0.00308220700148449,0.00604101471580679
+10000,"planned_initial",0.05,"unadjusted_or_holm_fourth",0.00217944947177034,0.0042716424707947
+20000,"threshold_overlap_extension",0.05,"unadjusted_or_holm_fourth",0.00154110350074224,0.00302050735790339
+50000,"exceptional_borderline_extension",0.05,"unadjusted_or_holm_fourth",0.000974679434480896,0.00191033658805442

@@ -1,0 +1,55 @@
+You are rating the focal Reddit comment for out-group construction and antagonistic differentiation.
+
+Your task is to determine whether the focal comment constructs a political, partisan, ideological, movement-based, institutional, or domestic policy-relevant "other" as morally, intellectually, civically, socially, or democratically defective.
+
+Rate only the focal comment. Use the submission title and timestamps only as context for interpreting references. Do not rate the parent comment. Do not infer labels from the broader Reddit thread.
+
+This dimension measures how strongly the comment produces or reinforces a political out-group. It is not about whether the commenter identifies with an in-group. It is also not simply emotional intensity. 
+
+Apply a strict threshold. Do not score higher for ordinary disagreement, policy criticism, factual correction, strategic analysis, or criticism of a single action unless the focal comment uses derogation, delegitimization, threat framing, generalized trait attribution, deindividualization, or othering.
+
+Out-group construction can target parties, voters, ideological factions, movements, politicians, administrations, media audiences, domestic institutions, or politically relevant social groups. It can also target an individual political figure, but individual-level criticism is usually label 1 or 2 unless the comment uses especially strong delegitimizing language or treats the individual as representative of a broader political type.
+
+Relevant evidence includes:
+
+moral condemnation, such as calling the other corrupt, evil, traitorous, fascist, authoritarian, anti-democratic, cowardly, cruel, or dangerous;
+
+intellectual delegitimization, such as portraying the other as stupid, delusional, brainwashed, propagandized, gullible, irrational, or incapable of understanding reality;
+
+civic or democratic delegitimization, such as framing the other as un-American, anti-democratic, disloyal, aligned with enemies, compromised by hostile powers, or unfit to govern;
+
+deindividualization or dehumanization, such as treating the other as a faceless mass, a disease, a creature, cultists, bots, sheep, or similar categories;
+
+generalized trait attribution, such as claiming that a party, voter base, ideological faction, or movement is inherently hypocritical, violent, dishonest, authoritarian, or morally defective;
+
+threat framing, such as portraying the other as a danger to democracy, national survival, civil rights, public safety, or the in-group's way of life;
+
+ridicule or contempt that marks the other as socially or politically inferior.
+
+Use label 1 for factual corrections, claim-level criticism, procedural disagreement, strategic analysis, policy disagreement, or critique of an abstract problem when the comment does not name or clearly construct a political out-group.
+
+Use label 1 when the target is abstract, such as "tyranny," "oppression," "war," "misinformation," or "trickle-down economics," unless the comment clearly ties that abstraction to a specific political out-group.
+
+Use label 1 for criticism of foreign states, foreign leaders, or geopolitical adversaries when the comment does not construct a domestic political, partisan, ideological, movement-based, institutional, or policy-relevant out-group. Foreign-policy moral condemnation alone should not inflate this dimension unless it is used to differentiate a domestic political other.
+
+Use label 1 for hostility toward a single other commenter when the focal comment does not generalize that person into a politically meaningful group.
+
+Use label 2 for clear but limited out-group construction. This includes brief generalized ridicule, a single delegitimizing label, individualized political derogation, controlled accusations of corruption or disloyalty, brief threat framing, or concise contempt toward a politically meaningful group or figure.
+
+Use label 2 for strong criticism of an individual political figure when the derogation is pointed but remains individualized, such as calling one politician a liar, fool, coward, useful idiot, seditionist, traitor, unfit, or corrupt, unless the comment generalizes beyond that individual or uses extreme dehumanization.
+
+Use label 2 when the comment endorses or repeats a severe characterization from context but the focal comment itself is brief and does not elaborate the othering.
+
+Use label 3 only when out-group construction is central, generalized, or intense. High out-group construction usually requires broad generalization to a party, voter base, ideological faction, movement, administration, institution, or politically meaningful social group; repeated or sustained delegitimization; severe dehumanization; existential threat framing; or claims that the target is fundamentally incompatible with democracy, the nation, public safety, or the in-group's way of life.
+
+Do not require explicit party labels. A comment can construct an out-group through terms such as "these people," "you people," "the right," "the left," "liberals," "conservatives," "MAGA," "neocons," "establishment Dems," "anti-vaxxers," "war hawks," or other politically meaningful categories, if the surrounding language makes the out-group clear.
+
+Use this scale:
+
+1 = Low or absent out-group construction. The focal comment does not meaningfully construct a political or ideological other as morally, intellectually, civically, socially, or democratically defective. It may criticize a policy, action, claim, abstraction, foreign actor, or individual, but it does not strongly other or delegitimize a political out-group.
+
+2 = Moderate out-group construction. The focal comment contains some ridicule, contempt, moral criticism, intellectual delegitimization, trait attribution, threat framing, or othering toward a political or ideological target, but it is limited, brief, individualized, compressed, or not central to the comment.
+
+3 = High out-group construction. The focal comment strongly constructs a political or ideological other as morally corrupt, stupid, dangerous, illegitimate, disloyal, anti-democratic, socially alien, dehumanized, or fundamentally incompatible with the nation, democracy, public safety, or the in-group. Use 3 only when the othering is central, generalized, sustained, severe, or intense.
+
+Return only one label: 1, 2, or 3.

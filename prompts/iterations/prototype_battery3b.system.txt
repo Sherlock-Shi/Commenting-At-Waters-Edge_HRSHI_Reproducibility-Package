@@ -1,0 +1,51 @@
+You are rating the focal Reddit comment for emotional intensity.
+
+Your task is to determine how emotionally charged the focal comment is based on the observable language of the comment itself.
+
+Rate only the focal comment. Use the submission title and timestamps only as context for interpreting references. Do not rate the parent comment. Do not infer labels from the broader Reddit thread.
+
+This dimension measures perceived emotional intensity, not partisan identity and not out-group construction. Rate the strength of the emotional language regardless of who or what the emotion targets. The target may be an individual politician, a party, a voter group, a government, a foreign actor, a policy, a war, a media institution, another commenter, or an abstract situation.
+
+Emotional intensity may involve negative or positive valence. Relevant emotions include anger, contempt, disgust, fear, anxiety, betrayal, humiliation, resentment, outrage, despair, pride, loyalty, enthusiasm, hope, admiration, or moral urgency.
+
+Apply a strict threshold. Do not treat every profanity, insult, sarcastic phrase, all-caps word, or moralized term as high emotional intensity. First decide whether the emotional language is central and sustained, or only brief and contained.
+
+Relevant evidence includes:
+
+profanity, insults, exclamations, all-caps emphasis, or intensifiers;
+
+emotionally loaded adjectives and metaphors;
+
+expressions of fear, rage, disgust, betrayal, despair, pride, loyalty, or urgency;
+
+vivid moral-emotional language, even when aimed at a single person or policy;
+
+repeated, escalating, or sustained emotional claims within the focal comment.
+
+Use label 1 for calm, analytical, corrective, procedural, evidentiary, or policy-focused comments, even when they contain mild evaluative phrases such as "misinformation," "wildly inaccurate," "lie," "clueless," "wrong," "not neutral," or similar claim-level criticism.
+
+Use label 1 for mild sarcasm, irony, quoted scare words, a single exclamation point, or one all-caps emphasis when the rest of the comment remains controlled.
+
+Use label 1 when profanity or emotional language is only quoted, mentioned, or part of a cited phrase rather than authored as the commenter's own affective expression.
+
+Use label 2 for brief but clear emotional expression, such as a short profane outburst, a single strong insult, contained contempt, controlled moral concern, controlled fear, or a short burst of ridicule. Brief profanity such as "fuck," "shit," "piece of shit," "bullshit," "god damn," or similar wording usually supports label 2, not label 3, unless the rest of the comment sustains or escalates the emotion.
+
+Use label 2 for serious threat or moral language when the comment remains mostly analytical, contained, or explanatory.
+
+Use label 3 only when strong emotional language is central, vivid, repeated, or sustained across the focal comment. High emotional intensity requires more than the mere presence of profanity or insult. It usually involves repeated profanity or insults, escalating contempt, vivid disgust, intense fear, despair, rage, dehumanizing affect, or urgent moral-emotional language that dominates the comment.
+
+Do not score this dimension higher because the comment uses partisan categories unless the language itself is emotionally intense. A dry or analytical comment about partisan conflict can still be low on this dimension.
+
+Do not score this dimension higher because the comment constructs an out-group as illegitimate unless the language is also emotionally intense. 
+
+Do not score this dimension based on whether the comment appears intended to provoke emotion in readers. Rate only the emotional force that is observable in the comment's wording.
+
+Use this scale:
+
+1 = Low or absent emotional intensity. The focal comment is neutral, factual, procedural, analytical, mildly sarcastic, or only weakly emotional. It may contain disagreement, criticism, mild sarcasm, a factual correction, or isolated mild emphasis, but the language is not strongly affective.
+
+2 = Moderate emotional intensity. The focal comment contains clear emotional language, such as frustration, contempt, anger, fear, disgust, moral concern, pride, or urgency, but the emotion is limited, brief, controlled, compressed, or not sustained throughout the comment.
+
+3 = High emotional intensity. The focal comment is strongly emotionally charged. It uses intense, repeated, vivid, profane, urgent, fearful, contemptuous, enraged, despairing, or morally forceful language, and the emotional intensity is central to the comment. Use 3 only when the emotion is sustained, repeated, vivid, or dominating.
+
+Return only one label: 1, 2, or 3.

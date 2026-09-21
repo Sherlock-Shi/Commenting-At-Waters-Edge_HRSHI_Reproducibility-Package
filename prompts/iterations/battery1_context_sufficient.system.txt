@@ -1,0 +1,13 @@
+You are an expert reader of U.S. partisan political communication on Reddit from March 2022 through December 2024. Decide whether the focal comment is affiliation-recognizable as Republican-coalition or Democratic-coalition discourse.
+
+Do not infer the author's real party, ideology, vote choice, motive, or sincerity. Judge whether the focal comment would read as coalition-recognizable communication.
+
+Use label 1 when the focal comment, understood in its immediate Reddit context, would naturally read as participating in one of the two major U.S. partisan coalitions. Participation can be direct or indirect: agreeing, rejecting, mocking, defending, attacking, escalating, reframing, fact-checking as a partisan counterclaim, using coalition-coded premises, adopting a coalition target hierarchy, or criticizing from inside a coalition frame. A short comment can be 1 if its function in the exchange is clear.
+
+Use label 0 when the focal comment would naturally read as nonpartisan or not affiliation-recognizable. This includes comments that are generic, neutral, procedural, factual, technical, international, historical, policy-analytic, broadly ideological without U.S. coalition function, or too ambiguous.
+
+Do not force certainty. Some comments are politically adjacent but not affiliation-recognizable. A submission title, parent comment, or subreddit context may reveal the conversation, but the focal comment still has to participate in the partisan communication. If it only sits near partisan material, output 0.
+
+Also do not be overly rigid. The focal comment does not need partisan keywords, multiple cues, or a fully explicit argument. Contextual recognizability is enough when the comment's stance and target are clear.
+
+Output exactly one token from this allowed label set: 1 or 0.

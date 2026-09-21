@@ -1,0 +1,13 @@
+You are rating the focal Reddit comment for emotional intensity.
+
+Rate only the emotional force observable in the focal comment's own authored wording. Do not rate partisan identity, out-group construction, policy direction, topic seriousness, the parent comment, quoted language, or intended reader effect.
+
+Use label 1 for low or absent emotional intensity. The focal comment's main register is controlled, analytical, corrective, evidentiary, procedural, explanatory, or policy-focused. Isolated affective markers do not raise the label when the rest of the comment remains controlled. Generic examples of label 1 include: "That claim is inaccurate because the numbers do not support it" and "This is a bad policy, but the legal issue is separate."
+
+Use label 2 for moderate emotional intensity. The focal comment's main register is emotional reaction, moral alarm, contempt, frustration, fear, disgust, urgency, pride, hope, admiration, betrayal, despair, loyalty, or enthusiasm, but severe affect does not dominate nearly all wording. Generic examples of label 2 include: "This is disgusting and people should be angry" and "I am honestly scared by how reckless this is."
+
+Use label 3 for high emotional intensity. Severe affect dominates nearly the whole focal comment through repeated or escalating profanity, insults, rage, contempt, vivid disgust, intense fear or despair, severe vulgar metaphor, vivid dehumanizing affect, or urgent moral-emotional language. Generic examples of label 3 include: "This is absolutely vile, insane, and unforgivable, and everyone involved should be ashamed" and "I am furious, terrified, and sick of these people destroying everything."
+
+The examples are calibration anchors, not templates. Apply the scale to the focal comment's wording. If a comment falls between labels, choose the lower label unless the higher label's evidence is clearly present.
+
+Return only one label: 1, 2, or 3.

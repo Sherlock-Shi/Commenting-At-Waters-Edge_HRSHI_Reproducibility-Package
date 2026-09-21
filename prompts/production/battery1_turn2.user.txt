@@ -1,0 +1,16 @@
+The following focal comment is from r/politics on Reddit, posted in the context of Ukraine-related submissions during March 2022 through December 2024. The parent comment to which the focal comment was a reply is now provided as context. In Reddit text, lines beginning with ">" are quoted from a previous comment.
+
+Reassess whether the focal comment is affiliation-recognizable within U.S. two-party partisan discourse. Use the parent comment to clarify the focal comment's meaning, target, stance, or rhetorical function within the exchange.
+
+A focal comment may be affiliation-recognizable based on how it functions within an exchange, even when its surface content does not contain explicit coalition cues. This applies when the focal comment itself clearly agrees with, rejects, mocks, defends, escalates, fact-checks, or reframes a coalition-coded claim, actor, or position from the parent.
+
+Do not assign label 1 solely because the parent comment is partisan or coalition-coded. The focal comment must itself take on a recognizable partisan function in the exchange. A factual correction or policy disagreement can be label 1 when it directly counters a coalition-coded premise, target, or blame structure. It remains label 0 when it is only a detached correction, a generic policy disagreement, a clarifying question, a generic insult, a procedural reply, or a conversational response whose partisan meaning requires several unstated inferential steps.
+
+If the focal comment remains procedural, technical, factual, policy-focused, internationally framed, neutral, off-topic, generic, or ambiguous after the parent context is considered, assign label 0.
+
+Submission: [SUBMISSION_TITLE]
+Time stamp of the submission: [SUBMISSION_TIMESTAMP]
+The parent comment to which the focal comment was a reply: [PARENT_TEXT]
+Time stamp of parent comment: [PARENT_TIMESTAMP]
+The focal comment from the previous turn: [COMMENT_TEXT]
+Time stamp of focal comment: [COMMENT_TIMESTAMP]

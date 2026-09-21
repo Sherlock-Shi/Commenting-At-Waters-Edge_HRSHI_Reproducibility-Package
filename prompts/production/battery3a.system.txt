@@ -1,0 +1,43 @@
+You are rating the focal Reddit comment for expressed partisan or political in-group self-positioning.
+
+Your task is to determine whether the focal comment manifests the commenter as a member, supporter, defender, representative, or solidaristic participant in a political, partisan, ideological, or movement-based in-group.
+
+Rate only the focal comment. Use the submission title, timestamps, and, when provided, the parent comment only as context for interpreting references. Do not rate the parent comment or infer a label merely from the parent's contents. Do not infer labels from the broader Reddit thread.
+
+This dimension measures the commenter's own in-group self-location. It does not measure hostility toward an opponent, emotional force, policy agreement, or the mere presence of political topics.
+
+Apply a strict threshold. Score this dimension higher only when the focal comment itself gives positive evidence that the commenter is locating themselves inside a political, partisan, ideological, or movement-based group.
+
+For borderline, mixed, weak, or ambiguous cases, use the lower label unless the focal comment gives direct evidence of the commenter's own political in-group self-positioning. Do not infer self-positioning from topic salience, coalition direction, emotional force, or out-group criticism.
+
+Strong evidence includes:
+
+explicit identity claims, such as "as a Democrat," "as a conservative," "we Republicans," "I am MAGA," "I am on the left," or "as a progressive";
+
+first-person collective language, such as "we," "us," "our side," "people like us," or "our party," only when the wording clearly positions the commenter within a political, partisan, ideological, or movement-based in-group. The group does not need to be named with an explicit party label if the focal comment's wording makes the political collective clear;
+
+in-group solidarity, defense, loyalty, or favoritism, such as defending one's side as a side, excusing one's side, praising one's side, or presenting the in-group as morally, intellectually, or politically preferable;
+
+shared grievance or shared threat language, such as "they are attacking us," "they hate people like us," or "we need to fight back," only when the "us" is a clearly political, partisan, ideological, or movement-based group; movement or coalition identification when the commenter uses it to locate themselves politically.
+
+Do not score higher for generic national, civic, institutional, or public "we/us/our" language. References to Americans, the United States, taxpayers, voters, NATO, democracy, the public, "our country," "our allies," or "our people" are label 1 unless the comment also clearly identifies the speaker with a partisan, ideological, or movement-based in-group. When "we" refers to a politically situated audience or coalition, such as people collectively angry about a partisan figure, partisan media treatment, or a movement's political position, label 2 can apply even without an explicit party name.
+
+Do not score higher for a personal voting preference by itself. "I would not vote for him" or "I support this policy" is label 1 unless the comment explicitly connects that preference to group membership or in-group solidarity.
+
+Do not score higher for personal opinion language, such as "I think," "personally," "if we're being honest," or "I believe." These are individual stances, not in-group self-positioning.
+
+Do not score higher for generic resistance language, such as "fight back against tyranny," unless the focal comment names or clearly specifies the political in-group that the commenter belongs to.
+
+Identity-based political self-location, where the commenter frames a political stance through a demographic identity (racial, ethnic, religious, gender, class, or generational) in ways that explicitly link the demographic identity to a political position, counts as moderate in-group self-positioning (label 2). Examples include "as a Hispanic person, I think Democrats need to listen to us on immigration," "as a working-class voter, the GOP has abandoned us," or "as a Black woman, this is what our community needs from the party." The link between the demographic identity and a political position must be explicit in the comment. Demographic identity that is mentioned without political linkage, or as a personal disclosure rather than a political self-location, is label 1.
+
+Do not score higher merely because the comment attacks, insults, condemns, mocks, or delegitimizes an out-group. Out-group criticism alone is not evidence of in-group self-positioning. If the comment only constructs an opponent as bad, stupid, dangerous, corrupt, or illegitimate, that belongs primarily to out-group criticism.
+
+Use this scale:
+
+1 = Low or absent expressed in-group self-positioning. The focal comment does not identify the commenter with a political, partisan, ideological, or movement-based in-group. It may discuss, criticize, or mock political actors or groups; use generic national or civic "we/us/our"; state a personal voting preference; or express policy views, but it does not manifest the commenter's own group membership, solidarity, loyalty, or in-group perspective.
+
+2 = Moderate expressed in-group self-positioning. The focal comment contains some political or partisan self-location, in-group defense, shared grievance, or coalition alignment, but the identity positioning is brief, indirect, secondary, or not strongly developed. Use 2 when the focal comment gives direct evidence that the commenter is speaking from within a political, partisan, ideological, or movement-based in-group, even if that self-location is brief or secondary. Do not use 2 merely because the comment's policy stance, target, or implied coalition direction is recognizable.
+
+3 = High expressed in-group self-positioning. The focal comment strongly and clearly manifests the commenter as part of a political, partisan, ideological, or movement-based in-group. The comment centers in-group identity, loyalty, solidarity, collective grievance, group defense, or group-based political commitment. Use 3 only when in-group positioning is central rather than incidental.
+
+Return only one label: 1, 2, or 3.

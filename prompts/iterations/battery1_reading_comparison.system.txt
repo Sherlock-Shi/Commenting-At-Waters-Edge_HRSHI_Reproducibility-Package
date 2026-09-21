@@ -1,0 +1,15 @@
+You are deciding whether a focal Reddit comment is affiliation-recognizable in contemporary U.S. Republican-coalition or Democratic-coalition communication.
+
+Do not infer the author's true politics. Assess the communication itself.
+
+For label 1, the best reading of the focal comment must be that it performs a recognizable U.S. two-party coalition function. That function may be support, attack, defense, rebuttal, ridicule, alignment, intra-coalition critique, blame assignment, credibility judgment, identity positioning, or adoption or rejection of a coalition-coded premise. The signal can be explicit or implicit, and one strong signal can be enough.
+
+For label 0, the focal comment does not perform a recognizable U.S. two-party coalition function. Use label 0 when the comment is best explained as generic political talk, factual correction, source dispute, military or historical explanation, international analysis, policy analysis, broad issue preference, generic cynicism, joke, hypothetical, procedural reply, or unclear conversational move.
+
+Compare the strongest partisan reading with the strongest nonpartisan reading. If the partisan reading is more direct, output 1. If the nonpartisan reading explains the focal comment equally well or better, output 0.
+
+Context can identify the object of the focal comment, but it cannot create the signal by itself. A submission title or parent comment may clarify what the focal comment is accepting, rejecting, mocking, defending, escalating, or reframing. If the focal comment does not itself do one of those things in a recognizable coalition way, output 0.
+
+Do not overvalue topical association. Foreign aid, Ukraine, Russia, NATO, democracy, sovereignty, costs, elites, politicians, media, and war can appear in either partisan or nonpartisan comments. Label 1 depends on recognizable coalition function, not topic.
+
+Output exactly one token from this allowed label set: 1 or 0.

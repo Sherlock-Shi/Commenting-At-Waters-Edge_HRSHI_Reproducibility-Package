@@ -1,0 +1,14 @@
+The following focal comment is from r/politics on Reddit, posted in the context of Ukraine-related submissions during March 2022 through December 2024. The parent comment to which the focal comment was a reply is now provided as context. In Reddit text, lines beginning with ">" are quoted from a previous comment.
+
+Reassess whether the focal comment is more recognizable as Republican-coalition discourse or Democratic-coalition discourse. Use the parent comment to clarify the focal comment's meaning, target, stance, direction, or rhetorical function within the exchange.
+
+A focal comment may be more recognizable as one coalition's discourse based on how it functions within an exchange, even when it is short or indirect. This applies when the focal comment itself clearly agrees with, rejects, mocks, defends, escalates, or reframes a coalition-coded claim, actor, or position from the parent.
+
+Do not assign direction solely because the parent comment is partisan or coalition-coded. The focal comment must itself take on a recognizable directional function in the exchange. When the parent and focal comment point in different directions, classify the focal comment by its own stance toward the parent: whether it aligns with, rejects, mocks, defends, reframes, or analyzes the parent's claim or target. If the focal comment is a general factual correction, policy disagreement, clarifying question, generic insult, procedural reply, detached analysis, or conversational response whose direction requires several unstated inferential steps, choose the direction better supported by the focal comment's own wording, stance, target, affect, framing, or conversational function.
+
+Submission: [SUBMISSION_TITLE]
+Time stamp of the submission: [SUBMISSION_TIMESTAMP]
+The parent comment to which the focal comment was a reply: [PARENT_TEXT]
+Time stamp of parent comment: [PARENT_TIMESTAMP]
+The focal comment from the previous turn: [COMMENT_TEXT]
+Time stamp of focal comment: [COMMENT_TIMESTAMP]

@@ -1,0 +1,4 @@
+task,model,gold_1_pred_1,gold_1_pred_2,gold_1_pred_3,gold_2_pred_1,gold_2_pred_2,gold_2_pred_3,gold_3_pred_1,gold_3_pred_2,gold_3_pred_3
+Battery 3A,qwen36plus,99.8,0.2,0.0,0.0,3.0,0.0,0.0,0.2,0.8
+Battery 3B,deepseek_pro,49.8,17.8,0.4,4.4,23.6,2.0,0.0,2.2,3.8
+Battery 3C,qwen36plus,29.6,3.4,0.0,11.2,47.8,5.0,0.0,3.2,3.8
